@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+blockquote {
+  font-style: italic;
+  border-left: 5px solid grey;
+  padding-left: 10px;
+}
